@@ -5,3 +5,6 @@
  
 ## Cостав команды:
 #### Волкович Полина, Воронина Мария, Кирисова Александра, Коротких Александр
+
+## Презентация:
+https://docs.google.com/presentation/d/1-F77jEhWmQrOF5X9-jVFx30pFpd6X5OC0nH3esF_CWs/edit#slide=id.g25952b9b11_0_603
