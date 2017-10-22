@@ -13,3 +13,5 @@ https://docs.google.com/presentation/d/1-F77jEhWmQrOF5X9-jVFx30pFpd6X5OC0nH3esF_
 
 1) https://habrahabr.ru/company/wunderfund/blog/331310/
 2) https://medium.com/towards-data-science/lstm-by-example-using-tensorflow-feb0c1968537
+3) http://www.deeplearningbook.org/
+4) http://colah.github.io/posts/2015-08-Understanding-LSTMs/
