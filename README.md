@@ -1,15 +1,15 @@
 # LSTM for next word prediction problem
 
-## Цель работы:
-#### Изучить модель LSTM и применить ее для решения задачи next word prediction
+## Objective:
+#### To learn LSTM model and apply it to solve next word prediction probem
  
-## Cостав команды:
-#### Волкович Полина, Воронина Мария, Кирисова Александра, Коротких Александр
+## Created by:
+#### P. Volkovich, M. Voronina, A. Korotkich, A. Kirisova
 
-## Презентация:
+## Presentation:
 https://docs.google.com/presentation/d/1-F77jEhWmQrOF5X9-jVFx30pFpd6X5OC0nH3esF_CWs/edit#slide=id.g25952b9b11_0_603
 
-## Полезные ссылки:
+## References:
 
 1) https://habrahabr.ru/company/wunderfund/blog/331310/
 2) https://medium.com/towards-data-science/lstm-by-example-using-tensorflow-feb0c1968537
