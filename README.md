@@ -23,7 +23,7 @@ the programm predict next 32 words : he had a proposal to make , which he though
 
 ## Accurancy:
 
-The model achieved accuracy of 93.5% for 50,000 operations
+The model achieved accuracy of 93.5% for 50000 operations
 
 ## References:
 
